@@ -1,2 +1,4 @@
-# cyber_command_hub
-Mini Cybersecurity Bash Project
+# Cyber Command Hub
+
+A Bash-based cybersecurity command reference tool built on Kali Linux.
+
